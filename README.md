@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/49925165-f67b5100-fe6c-11e8-8fcb-9788df663826.png">
+  <img src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png">
   <br />
   azuredatastudio
 </h1>
